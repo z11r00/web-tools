@@ -1,0 +1,1 @@
+import{_ as o,r as t,b as c,c as n,h as s}from"./index-17477c0a.js";const r={};function _(a,l){const e=t("el-empty");return c(),n("div",null,[s(e,{"image-size":200})])}const p=o(r,[["render",_],["__file","D:/3code/14H5/tools-vue-ts/src/components/404/404.vue"]]);export{p as default};
